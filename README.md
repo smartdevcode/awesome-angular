@@ -204,8 +204,6 @@ Http is available as an injectable class, with methods to perform http requests.
 <br>[Read more »](features/Router.md)
 
 ##### Test
-* [Testing Http services in Angular 2 with Jasmine](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
-* [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 <br>[Read more »](features/Test.md)
 
@@ -227,6 +225,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Video Tutorials
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
+* [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/series/building-a-time-machine-with-angular-2-and-rxjs)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 * [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
@@ -264,7 +263,6 @@ Http is available as an injectable class, with methods to perform http requests.
 * [thoughtram](http://thoughtram.io/training.html)
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
-* [Angular 2 Workshop](http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/)
 
 #### Approach and Explanation
 
