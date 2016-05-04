@@ -204,6 +204,8 @@ Http is available as an injectable class, with methods to perform http requests.
 <br>[Read more »](features/Router.md)
 
 ##### Test
+* [Testing Http services in Angular 2 with Jasmine](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
+* [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 <br>[Read more »](features/Test.md)
 
@@ -263,6 +265,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [thoughtram](http://thoughtram.io/training.html)
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
+* [Angular 2 Workshop](http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/)
 
 #### Approach and Explanation
 
@@ -319,6 +322,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-modal](https://github.com/pleerock/ng2-modal) Modal window for angular2 and bootstrap 3
 * [ng2-paginator](https://github.com/pleerock/ng2-paginator) Pagination control for angular2 and bootstrap 3
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
+* [prime-ng](http://www.primefaces.org/primeng/)  Collection of rich UI components for Angular 2
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
